@@ -1,0 +1,33 @@
+# package directories
+node_modules
+jspm_packages
+
+# yarn
+yarn.lock
+
+*.gem
+*.rbc
+.bundle
+.config
+coverage
+InstalledFiles
+lib/bundler/man
+pkg
+rdoc
+spec/reports
+test/tmp
+test/version_tmp
+tmp
+*.DS_STORE
+lib/
+.cache
+.vagrant
+.sass-cache
+
+# YARD artifacts
+.yardoc
+_yardoc
+doc/
+.idea/
+
+.nyc_output
